@@ -47,5 +47,5 @@
 ## 📄 檔案說明
 
      enhanced_strategy/
-    - enhanced_strategy.py # 策略主體與回測流程（整合抓資料、處理與計算）
+    - 交易策略 題目二.py # 策略主體與回測流程（整合抓資料、處理與計算）
     - README.md # 專案說明文件
