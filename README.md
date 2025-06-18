@@ -29,15 +29,12 @@
 
 1. **環境建置**
 
-   請先確認已安裝以下 Python 套件（可用 pip 安裝）：
-
-   ```bash
-   pip install pandas numpy matplotlib ta
+   請先確認已安裝 Python 套件（可用 pip 安裝）：
 
 
 2. **執行主策略腳本**
     ```bash
-    python enhanced_strategy.py
+    交易策略 題目二.py
     ```
 
 3. **輸出結果**
@@ -46,7 +43,6 @@
 
 ## 📄 檔案說明
 
-     enhanced_strategy/
     - 交易策略 題目二.py # 策略主體與回測流程（整合抓資料、處理與計算）
     - README.md # 專案說明文件
     
